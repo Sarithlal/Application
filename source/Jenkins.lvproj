@@ -32,7 +32,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Work/1_New Activities/JenkinsTest/GitHUB/BuildOuput</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{43C985F3-49B3-42F5-A367-7C53DDC800D8}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Work/1_New Activities/JenkinsTest/GitHUB/BuildOuput/Application.exe</Property>
